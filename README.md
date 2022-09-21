@@ -9,6 +9,8 @@ https://az-nginx-angle-dockerapp.azurewebsites.net/
 or 
 http://az-nginx-angle-dockerapp.azurewebsites.net/
 
+(app is destroyed ,so url will not be accessed to avoid charges on azure )
+
 Discuss briefly the pros an cons of the chosen solution. What benefits does it have? What kind of limitations or tradeoffs?
 
 - The solution can easily spinup the ngnix docker Azure app service with dns mapping achieving easily public internet access.
